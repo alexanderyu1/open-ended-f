@@ -1,0 +1,16 @@
+h1 {
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+table tr:nth-child(odd) {
+  background-color: lightblue;
+}
+
+table tr:nth-child(even) {
+  background-color: plum;
+}
+
+table tr:hover {
+  text-decoration: underline;
+}
